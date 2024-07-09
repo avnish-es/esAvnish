@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Course on Electronics System
 - 💞️ I’m looking to collaborate on Embbded Project
 - 📫 How to reach me avnishkr@outlook.in
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 esAvnish/esAvnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
